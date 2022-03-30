@@ -1,0 +1,32 @@
+.credit-card-box .panel-title {
+  font-weight: bold;
+  overflow: hidden;
+}
+
+.credit-card-box .panel-title .panel-title-text {
+  max-width: 80px;
+  float: left;
+}
+
+.credit-card-box .panel-title .panel-title-image {
+  max-width: 160px;
+  float: right;
+}
+
+.credit-card-box label {
+  display: block;
+}
+
+.credit-card-box .panel-body .control-label {
+  text-transform: uppercase;
+}
+
+#bodyone {
+  background-image: url("https://simplea.com/getmedia/66a43aba-d419-4df4-85c7-d5344ec92f2e/3058-blog-article-How-Augmented-and-Virtual-Reality-impact-Customer-Experiences-Cover.png.aspx");
+}
+
+.btn {
+  color: black;
+  background-color: red;
+}
+

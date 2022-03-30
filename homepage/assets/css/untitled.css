@@ -1,0 +1,10 @@
+.image {
+  background: url("../../assets/img/avatars/homelogo.jpg");
+  background-image: var(--bs-indigo);
+}
+
+.page-footer {
+  background-color: cornflowerblue;
+  color: black;
+}
+
